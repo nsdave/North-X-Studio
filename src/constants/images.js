@@ -38,6 +38,10 @@ import spotify from '../assets/spotify.png';
 import present from '../assets/north_present.svg'
 import headerImg from '../assets/north_po.svg'
 
+import n from '../images/Ns.png'
+import x from '../images/Xs.png'
+import s from '../images/Ss.png'
+
 export default {
   email,
   mobile,
@@ -73,5 +77,8 @@ export default {
   skype,
   spotify,
   present,
-  headerImg
+  headerImg,
+  n,
+  x,
+  s
 };

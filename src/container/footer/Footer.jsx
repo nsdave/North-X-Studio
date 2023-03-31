@@ -36,14 +36,18 @@ const Footer = () => {
 
   return (
     <>
-      <h2 className='head-text foot-head' >chat with me </h2>
+      <h2 className='head-text foot-head' >Get in touch</h2>
 
-      <div className='app__footer-cards' >
-        <div className='app__footer-card' >
-          <img src={images.email} alt='email' />
-          <a href='mailto:nsdavenorth@gmail.com' >nsdavenorth@gmail.com</a>
-        </div>  
-      </div>
+        <div className='app__footer-cards' >
+          <div className='app__footer-card' >
+            <img src={images.email} alt='email' />
+            <a href='mailto:omechechibuikem@gmail.com' >omechechibuikem@gmail.com</a>
+          </div>  
+          <div className='app__footer-card' >
+            <img src={images.mobile} alt='email' />
+            <a href='/' >+14693692409</a>
+          </div>  
+        </div>
 
     {!isFormSubmitted ?
       <div className='app__footer-form app__flex' >

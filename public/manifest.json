@@ -3,19 +3,19 @@
   "name": "North X Studio",
   "icons": [
     {
-      "src": "nXS2.png",
-      "sizes": "500x500",
+      "src": "nxsicon.png",
+      "sizes": "380x347",
       "type": "image/png"
     },
     {
-      "src": "nXS2.png",
+      "src": "nxsicon.png",
       "type": "image/png",
-      "sizes": "500x500"
+      "sizes": "380x347"
     },
     {
-      "src": "nXS2.png",
+      "src": "nxsicon.png",
       "type": "image/png",
-      "sizes": "500x500"
+      "sizes": "380x347"
     }
   ],
   "start_url": ".",

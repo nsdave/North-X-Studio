@@ -19,7 +19,7 @@ const Skills = () => {
 
   return (
     <>
-      <h2 className='head-text head-tit' >Skills</h2>
+      <h2 className='head-text head-tit' >Technologies we specialize in</h2>
 
       <div className='app__skills-container' >
 

@@ -30,10 +30,10 @@ const About = () => {
         <span> North X Studio</span>
         <br />
         We know that 
-        <span> Good Development</span>
+        <span> Great Development</span>
         <br />
         means 
-        <span> Good Business</span>
+        <span> Great Business</span>
       </h2>
 
       <div className='app__profiles' >
@@ -53,7 +53,7 @@ const About = () => {
       </div>
 
       <h2 className='head-text' style={{ marginTop: 20 }} >
-        So we provide you 
+         we provide you 
         <br />
         with the
         <span> stable </span>

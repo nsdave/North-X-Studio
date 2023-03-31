@@ -10,6 +10,12 @@
     color: transparent;
 }
 
+.footer__row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
 
 .app__footer-cards {
     width: 60%;
@@ -49,6 +55,7 @@
 
             @media screen and (max-width: 450px) {
                 width: 100%;
+                
             }
         }
 
@@ -60,6 +67,11 @@
 
     @media screen and (max-width: 768px) {
         width: 100%;
+
+        .app__footer-card img:nth-child(1) {
+            object-fit: contain;
+            width: 50px;
+        }
     }
 }
 
